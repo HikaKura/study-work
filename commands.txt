@@ -1,0 +1,4 @@
+установка ангуляра: npm install -g @angular/cli
+создание приложения: ng new my-first-app
+запуск приложения: ng serve --open
+создать компонент: ng generate component main

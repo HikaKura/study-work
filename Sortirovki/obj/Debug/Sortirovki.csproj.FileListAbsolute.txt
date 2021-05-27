@@ -1,0 +1,6 @@
+O:\University\4курс\ГОСЫ\практика\Sortirovki\bin\Debug\Sortirovki.exe.config
+O:\University\4курс\ГОСЫ\практика\Sortirovki\bin\Debug\Sortirovki.exe
+O:\University\4курс\ГОСЫ\практика\Sortirovki\bin\Debug\Sortirovki.pdb
+O:\University\4курс\ГОСЫ\практика\Sortirovki\obj\Debug\Sortirovki.csprojAssemblyReference.cache
+O:\University\4курс\ГОСЫ\практика\Sortirovki\obj\Debug\Sortirovki.exe
+O:\University\4курс\ГОСЫ\практика\Sortirovki\obj\Debug\Sortirovki.pdb
